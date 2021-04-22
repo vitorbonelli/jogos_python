@@ -1,1 +1,1 @@
-# jogos_python_curso_alura
+# jogos_python
